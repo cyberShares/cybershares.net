@@ -1,0 +1,11 @@
+*.sublime-workspace
+Thumbs.db
+Desktop.ini
+*.py[co]
+.coverage
+.tox
+.swp
+*.mo
+.mr.developer.cfg
+.DS_Store
+/test/test_result.txt
