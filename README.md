@@ -1,0 +1,1 @@
+[Paper](https://github.com/cyberFund/cyberShares/wiki)
