@@ -9,3 +9,4 @@ Desktop.ini
 .mr.developer.cfg
 .DS_Store
 /test/test_result.txt
+ _temp.py

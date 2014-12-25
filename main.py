@@ -44,6 +44,7 @@ main_routes = [
   route(r'/subscribe', Subscribe),
 
   route(r'/colored', 'handler.Static', defaults={'template': 'colored.html'}),
+  route(r'/sharedrops', 'handler.Static', defaults={'template': 'sharedrops.html'}),
   route(r'/colored-invest', 'handler.Static', defaults={'template': 'colored-invest.html'}),
   route(r'/next', 'handler.Static', defaults={'template': 'next.html'}),
   route(r'/next-invest', 'handler.Static', defaults={'template': 'next-invest.html'}),
