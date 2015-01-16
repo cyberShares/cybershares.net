@@ -43,7 +43,7 @@ main_routes = [
   route(r'/explorer', 'handler.Static', defaults={'template': 'explorer.html'}),
   route(r'/subscribe', Subscribe),
 
-  route(r'/sharedrops', 'handler.Static', defaults={'template': 'sharedrops.html'}),
+  route(r'/about', 'handler.Static', defaults={'template': 'about.html'}),
   route(r'/supply', 'handler.Static', defaults={'template': 'supply.html'}),
 
   route('/deposit', 'deposit.Deposit'),
